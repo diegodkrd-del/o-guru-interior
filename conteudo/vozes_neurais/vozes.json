@@ -1,0 +1,26 @@
+{
+ "pt-BR": {
+  "feminina": "pt-BR-FranciscaNeural",
+  "masculina": "pt-BR-AntonioNeural"
+ },
+ "en-US": {
+  "feminina": "en-US-AvaMultilingualNeural",
+  "masculina": "en-US-AndrewMultilingualNeural"
+ },
+ "es-ES": {
+  "feminina": "es-ES-ElviraNeural",
+  "masculina": "es-ES-AlvaroNeural"
+ },
+ "fr-FR": {
+  "feminina": "fr-FR-VivienneMultilingualNeural",
+  "masculina": "fr-FR-RemyMultilingualNeural"
+ },
+ "de-DE": {
+  "feminina": "de-DE-SeraphinaMultilingualNeural",
+  "masculina": "de-DE-FlorianMultilingualNeural"
+ },
+ "it-IT": {
+  "feminina": "it-IT-IsabellaNeural",
+  "masculina": "it-IT-GiuseppeMultilingualNeural"
+ }
+}

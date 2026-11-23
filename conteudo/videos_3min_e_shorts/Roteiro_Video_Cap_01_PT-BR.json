@@ -1,0 +1,23 @@
+{
+  "capitulo": 1,
+  "titulo": "A Unidade da Verdade: O Elo entre Oriente e Ocidente",
+  "idioma": "pt-BR",
+  "voz_neural_sugerida": "pt-BR-AntonioNeural (Masculina Serena) ou pt-BR-FranciscaNeural (Feminina Suave)",
+  "video_3_minutos": {
+    "duracao_alvo": "03:00",
+    "formato": "16:9 (1920x1080)",
+    "narracao": "Como podem ensinamentos nascidos na Índia milenar e a mensagem pura de Cristo falar exatamente a mesma língua?\nEm A Ciência Sagrada, Swami Sri Yukteswar revela o segredo: a Verdade é Uma só. Ele a chama de Sat-Chit-Ananda — Existência Eterna, Consciência Eterna e Bem-Aventurança Sempre Nova.\nNas Cartas de Cristo, essa mesma Realidade se apresenta sem véus religiosos: a Fonte da Vida não é um juiz colérico que pune pecadores, mas a Consciência Amorosa Universal da qual tudo nasce.\nE como nos ensina Paramahansa Yogananda: você não precisa apenas acreditar nisso; você pode experimentar essa Luz agora mesmo, no silêncio da sua própria alma.\nRespire fundo, aquiete o pensamento e lembre-se: você é uma centelha viva da Chama Eterna.",
+    "cenas_visuais": [
+      "00:00 - 00:45: Luz dourada suave no horizonte / Galáxia e geometria sagrada",
+      "00:45 - 01:30: Retrato sereno da linhagem (Sri Yukteswar & Paramahansa Yogananda) e pergaminhos das Cartas de Cristo",
+      "01:30 - 02:15: Meditação silenciosa e expansão da luz no centro crístico e coração",
+      "02:15 - 03:00: Frase final na tela com música meditativa em 432Hz"
+    ]
+  },
+  "short_60_segundos": {
+    "duracao_alvo": "00:58",
+    "formato": "9:16 Vertical (1080x1920 - Reels/Shorts/TikTok)",
+    "narracao": "Você sabia que Sri Yukteswar, Paramahansa Yogananda e as Cartas de Cristo revelam exatamente o mesmo segredo sobre Deus? Deus não é um juiz distante esperando para punir suas falhas. Sri Yukteswar chama a Fonte de Sat-Chit-Ananda: Bem-Aventurança Sempre Nova. As Cartas de Cristo a chamam de Consciência Amorosa Universal. E Yogananda nos lembra: você é parte viva dessa Luz. Aquiete sua mente hoje e sinta a Paz que já habita em você.",
+    "legenda_dinamica": true
+  }
+}
